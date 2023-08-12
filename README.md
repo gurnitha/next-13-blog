@@ -6,3 +6,8 @@
         modified:   app/globals.css
         modified:   app/page.tsx
         modified:   tailwind.config.ts
+
+#### 2. Membuat commands file
+
+        modified:   README.md
+        new file:   commands.bash
