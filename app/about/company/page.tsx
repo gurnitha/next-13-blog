@@ -1,12 +1,14 @@
 import Link from "next/link";
 
-export default function Home() {
+const Company = () => {
   return (
-    <main>
-      <h1>Home page</h1>
+    <div>
+      <h1>About Company page</h1>
       <Link href="/">Home</Link> |
       <Link href="/about"> About</Link> |
       <Link href="/about/company"> Company</Link>
-    </main>
+    </div>
   );
-}
+};
+
+export default Company;

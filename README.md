@@ -16,3 +16,10 @@
 
         modified:   README.md
         new file:   app/about/page.tsx
+
+#### 4. Membuat nested routes / link the pages
+
+        modified:   README.md
+        new file:   app/about/company/page.tsx
+        modified:   app/about/page.tsx
+        modified:   app/page.tsx
