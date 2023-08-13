@@ -11,3 +11,8 @@
 
         modified:   README.md
         new file:   commands.bash
+
+#### 3. Membuat laman About
+
+        modified:   README.md
+        new file:   app/about/page.tsx
