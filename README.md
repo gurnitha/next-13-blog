@@ -41,3 +41,9 @@
         deleted:    app/about/company/page.tsx
         deleted:    app/about/page.tsx
         modified:   app/layout.tsx
+
+#### 8. Membuat components navigation dan import ke app/layout
+
+        modified:   README.md
+        modified:   app/layout.tsx
+        new file:   components/navigation/navigation.tsx
