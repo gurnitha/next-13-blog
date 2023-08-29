@@ -35,3 +35,9 @@
         modified:   app/about/company/page.tsx
         modified:   app/about/page.tsx
         modified:   app/page.tsx
+
+#### 7. Menghapus files bersiap membuat components
+
+        deleted:    app/about/company/page.tsx
+        deleted:    app/about/page.tsx
+        modified:   app/layout.tsx

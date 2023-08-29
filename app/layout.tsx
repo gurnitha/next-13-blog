@@ -17,22 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
-        <div className="px-4 py-6 border-b flex items-center justify-between">
-          <Link className="font-bold" href="/">
-            Logo
-          </Link>
-          <ul className="flex items-center gap-3">
-            <li>
-              <Link href="/about">About</Link>
-            </li>
-            <li>
-              <Link href="/about/company">Company</Link>
-            </li>
-          </ul>
-        </div>
-        {children}
-      </body>
+      <body className={inter.className}>{children}</body>
     </html>
   );
 }
