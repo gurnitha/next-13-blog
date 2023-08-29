@@ -28,3 +28,10 @@
 
         modified:   README.md
         modified:   app/layout.tsx
+
+#### 6. Menghapus tautan dari laman home, about, dan company
+
+        modified:   README.md
+        modified:   app/about/company/page.tsx
+        modified:   app/about/page.tsx
+        modified:   app/page.tsx
