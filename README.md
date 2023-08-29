@@ -23,3 +23,8 @@
         new file:   app/about/company/page.tsx
         modified:   app/about/page.tsx
         modified:   app/page.tsx
+
+#### 5. Menggunakan layout linking the pages
+
+        modified:   README.md
+        modified:   app/layout.tsx
