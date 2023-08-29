@@ -47,3 +47,11 @@
         modified:   README.md
         modified:   app/layout.tsx
         new file:   components/navigation/navigation.tsx
+
+#### 9. Styling navigation component
+
+        modified:   README.md
+        modified:   app/page.tsx
+        new file:   components/layout/padding-container.tsx
+        modified:   components/navigation/navigation.tsx
+
